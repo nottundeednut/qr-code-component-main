@@ -9,5 +9,33 @@
     max-width: 100%;
     margin: 0 auto;
     text-align: center;
-    border: 2px solid red;
+    /*border: 2px solid red;*/
+}
+
+body{
+  font-family: 'Outfit', sans-serif;
+  font-size: 15px;
+  background-color: hsl(212, 45%, 89%);
+}
+
+.p1{
+  font-weight: 700px;
+}
+.p2{
+  font-weight: 400px;
+}
+
+.border{
+  /*border: 2px solid red;*/
+  width: 70%;
+  margin: 50px auto;
+  padding: 20px 20px 40px 20px;
+  border-radius: 30px;
+  background-color: hsl(0, 0%, 100%);
+}
+
+img {
+  border-radius: 30px;
+  margin-top: 10px;
+  margin-bottom: 30px;
 }
